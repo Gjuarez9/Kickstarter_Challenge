@@ -3,10 +3,8 @@ Observing outcomes from theater kickstarter campaigns
 
 ## OVERVIEW
   Tasked with analyzing and visualizing how different kickstarter campaigns performed in relation to their launch dates and funding goals.
-    
-    - We are specifically focusing in on play campaigns under the theater category.
-    
-    - We want to visualize outcomes by launch date as well as outcomes based on funding goals
+ We are specifically focusing in on play campaigns under the theater category.
+ We want to visualize outcomes by launch date as well as outcomes based on funding goals
 
 ## Analysis and Challenges
 
